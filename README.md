@@ -1,2 +1,2 @@
-# html_debuggen
+# HTML Valideren
 HTML errors, debuggen
